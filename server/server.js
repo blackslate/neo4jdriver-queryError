@@ -18,6 +18,7 @@ Meteor.startup(function() {
   }
   
   console.log("This code should never be executed")
+  console.log(result)
 })
 
 
